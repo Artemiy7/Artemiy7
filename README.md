@@ -32,6 +32,13 @@ Also I have some commercial experience with front-end (Angular, JavaScript/TypeS
 National Technical University Dnipro Polytechnic
 M.Eng. in Electrical and Automation Engineering
 
+<h3 align="left">Courses completed:</h3>
+
+| Course | Author  |  Certificate  |
+| :---:   | :---: | :---:   |
+| Fundamentals of Database Engineering  | Hussein Nasser |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-database-md)|
+
+
 <h3 align="left">Leetcode:</h3>
 
 ![Enter some description](https://leetcode-badge-sage.vercel.app/badge/artemsemeniuk77?theme=dark)
