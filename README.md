@@ -1,8 +1,13 @@
-## Hi there 👋
+## Hello there!
 
 ![f0676b1c06a22fd4ea3ab75365c8b39e](https://github.com/user-attachments/assets/b142ed1f-8e3a-48ba-8de8-d8cb3e0c657d)
 
+I’m Artem - Java Software Engineer with 5 years of experience.
 
+Focusing mostly on back-end development in Java, Spring, PostgreSQL, Redis, Kafka, AWS.
+Also I have some commercial experince with front-end(Angular).
+
+Passed udemy courses: https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc
 <!--
 **Artemiy7/Artemiy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
