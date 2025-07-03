@@ -1,5 +1,8 @@
 ## Hi there 👋
-![f0676b1c06a22fd4ea3ab75365c8b39e](https://gist.github.com/user-attachments/assets/241117c0-0dfb-41ee-8379-41eb4d366cdb)
+
+![f0676b1c06a22fd4ea3ab75365c8b39e](https://github.com/user-attachments/assets/b142ed1f-8e3a-48ba-8de8-d8cb3e0c657d)
+
+
 <!--
 **Artemiy7/Artemiy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
