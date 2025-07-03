@@ -28,7 +28,11 @@ Also I have some commercial experience with front-end (Angular, JavaScript/TypeS
 |:--------------------------------------------------|:-----------------------------------------------|
 |<span style="font-weight:normal">SoftServe</span>|<span style="font-weight:normal">08.2020 - 07.2023</span>|
 
+<h3 align="left">Education:</h3>
+National Technical University Dnipro Polytechnic
+M.Eng. in Electrical and Automation Engineering
 
+<h3 align="left">Leetcode:</h3>
 
 ![Enter some description](https://leetcode-badge-sage.vercel.app/badge/artemsemeniuk77?theme=dark)
 
