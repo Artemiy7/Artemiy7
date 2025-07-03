@@ -7,6 +7,20 @@ I’m Artem - Java Software Engineer with 5 years of experience.
 Focusing mostly on back-end development in Java, Spring, PostgreSQL, Redis, Kafka, AWS.
 Also I have some commercial experience with front-end (Angular).
 
+<h3 align="left">Skills</h3>
+
+
+|||
+| :---:   | :---: |
+| Backend | Java 21, Spring (Core, Boot, Cloud, Security, Data, WebFlux), Hibernate, Kafka, RabbitMQ, Netty, Tomcat |
+| Database | SQL - PostgreSQL, NoSQL - MongoDB, Redis |
+| Comp. Sc: | Data Structures, Algorithms, OOP, SOLID, Design Patterns, Microservices, REST, HTTP, gRPC |
+| Testing | Spring Test, JUnit, Mockito, Spock, JMeter |
+| Cont. Int | Jenkins, Gitlab CI, Circle Ci |
+| DevOps | AWS (EC2, S3, RDS, SQS, SNS), Kubernetes, Docker, Keycloak,
+Liquibase, Git, Kibana, Grafana, Linux (Ubuntu) |
+| Language | English - Upper Intermediate, Ukrainian - Native |
+
 ![Enter some description](https://leetcode-badge-sage.vercel.app/badge/artemsemeniuk77?theme=dark)
 
 <!--
