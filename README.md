@@ -39,8 +39,14 @@ M.Eng. in Electrical and Automation Engineering
 | <p align="left">Fundamentals of Database Engineering</p>  | Hussein Nasser |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-database-md)|
 | <p align="left">Spring Framework DevOps on AWS</p>  | John Thompson |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-spring_aws-md)|
 | <p align="left">Hibernate and Spring Data JPA: Beginner to Guru</p> | John Thompson |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-hibernate-md)|
-| <p align="left">Spring Boot Microservices with Spring Cloud Beginner to Guru</p>  | John Thompson |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-spring_ms-md)|
-| <p align="left">Apache Kafka Series - Learn Apache Kafka for Beginners v3</p>   | Stephane Maarek |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-kafka-md)|
+| <p align="left">Spring Boot Microservices with Spring Cloud Beginner to Guru</p> | John Thompson |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-spring_ms-md)|
+| <p align="left">Apache Kafka Series - Learn Apache Kafka for Beginners v3</p> | Stephane Maarek |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-kafka-md)|
+| <p align="left">Event-Driven Microservices, CQRS, SAGA, Axon, Spring Boot</p> | Sergey Kargopolov  |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-cqrs-md)|
+| <p align="left">OAuth 2.0 in Spring Boot Applications</p> | Sergey Kargopolov |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-oauth-md)|
+| <p align="left">Spring Security Core: Beginner to Guru</p> | John Thompson |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-security-md)|
+| <p align="left">Mastering Java Reactive Programming [ From Scratch ]</p> | Vinoth Selvaraj |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-reactive-md)|
+| <p align="left">Reactive Microservices Architecture & Design Patterns</p> | Vinoth Selvaraj |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-webflux-md)|
+| <p align="left">Learn Redis And Use Jedis With Spring Data Redis</p> | Bassem Abuein |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-redis-md)|
 
 
 
