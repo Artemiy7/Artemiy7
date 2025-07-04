@@ -36,7 +36,12 @@ M.Eng. in Electrical and Automation Engineering
 
 | Course | Author  |  Certificate  |
 | :---:   | :---: | :---:   |
-| Fundamentals of Database Engineering  | Hussein Nasser |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-database-md)|
+| <p align="left">Fundamentals of Database Engineering</p>  | Hussein Nasser |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-database-md)|
+| <p align="left">Spring Framework DevOps on AWS</p>  | John Thompson |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-spring_aws-md)|
+| <p align="left">Hibernate and Spring Data JPA: Beginner to Guru</p> | John Thompson |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-hibernate-md)|
+| <p align="left">Spring Boot Microservices with Spring Cloud Beginner to Guru</p>  | John Thompson |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-spring_ms-md)|
+| <p align="left">Apache Kafka Series - Learn Apache Kafka for Beginners v3</p>   | Stephane Maarek |[LINK](https://gist.github.com/Artemiy7/1ece9496221672c99e1f5d3e9b14e9cc#file-kafka-md)|
+
 
 
 <h3 align="left">Leetcode:</h3>
