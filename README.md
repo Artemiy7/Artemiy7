@@ -5,7 +5,7 @@
 I’m Artem - Java Software Engineer with 5 years of commercial experience in the healthcare and e-commerce domains.
 
 Focusing mostly on back-end development in Java, Spring, PostgreSQL, Redis, Kafka, AWS.
-Also I have some commercial experience with front-end (Angular, JavaScript/TypeScript).
+<br /> Also I have some commercial experience with front-end (Angular, JavaScript/TypeScript).
 
 <h3 align="left">Skills:</h3>
 
